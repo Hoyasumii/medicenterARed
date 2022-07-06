@@ -114,7 +114,7 @@ footer {height: 100vh;}
     }
 
     #bannerOptions {
-        height: max-content
+        height: max-content;
     }
 }
 
