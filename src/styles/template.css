@@ -112,6 +112,10 @@ footer {height: 100vh;}
         justify-content: center;
         flex-direction: column;
     }
+
+    #bannerOptions {
+        height: max-content
+    }
 }
 
 .container + * {
